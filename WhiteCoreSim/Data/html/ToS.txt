@@ -1,16 +1,11 @@
+&#x201C;&#x90A3;&#x513F;&#x201D;&#x7684;&#x670D;&#x52A1;&#x6761;&#x6B3E;
 
-Terms of Service for YourSim
-Introduction 
+&#x4ECB;&#x7ECD;
 
-This simulator is based on WhiteCore. 
-By visiting this simulator and accessing the information, resources, services, 
- products, and tools we provide, you understand and agree to accept and adhere 
- to the following terms and conditions as stated in this policy 
- (hereafter referred to as 'User Agreement'). 
+&#x901A;&#x8FC7;&#x8BBF;&#x95EE;&#x865A;&#x62DF;&#x4E16;&#x754C;&#x5E76;&#x8BBF;&#x95EE;&#x4FE1;&#x606F;&#xFF0C;&#x8D44;&#x6E90;&#xFF0C;&#x670D;&#x52A1;&#xFF0C;&#x4EA7;&#x54C1;&#x548C;&#x5DE5;&#x5177;&#xFF0C;&#x60A8;&#x4E86;&#x89E3;&#x5E76;&#x540C;&#x610F;&#x63A5;&#x53D7;&#x548C;&#x9075;&#x5B88;&#x7B26;&#x5408;&#x672C;&#x653F;&#x7B56;&#x89C4;&#x5B9A;&#x7684;&#x4EE5;&#x4E0B;&#x6761;&#x6B3E;&#x548C;&#x6761;&#x4EF6;&#xFF08;&#x4EE5;&#x4E0B;&#x7B80;&#x79F0;&#x201C;&#x7528;&#x6237;&#x534F;&#x8BAE;&#x201D;&#xFF09;&#x3002;
 
-We reserve the right to change this User Agreement from time to time without notice.
- You acknowledge and agree that it is your responsibility to review this 
- User Agreement periodically to familiarise yourself with any modifications. 
- Your continued use of this site after such modifications will constitute 
- acknowledgment and agreement of the modified terms and conditions. 
-
+&#x6211;&#x4EEC;&#x4FDD;&#x7559;&#x968F;&#x65F6;&#x66F4;&#x6539;&#x672C;&#x7528;&#x6237;&#x534F;&#x8BAE;&#x7684;&#x6743;&#x5229;&#xFF0C;&#x6055;&#x4E0D;&#x53E6;&#x884C;&#x901A;&#x77E5;&#x3002;
+&#xFF08;1&#xFF09;&#x60A8;&#x627F;&#x8BA4;&#x5E76;&#x540C;&#x610F;&#xFF0C;&#x60A8;&#x6709;&#x8D23;&#x4EFB;&#x5BA1;&#x67E5;&#x8FD9;&#x4E00;&#x70B9;
+&#xFF08;2&#xFF09;&#x7528;&#x6237;&#x534F;&#x8BAE;&#x5B9A;&#x671F;&#x8BA9;&#x60A8;&#x719F;&#x6089;&#x4EFB;&#x4F55;&#x4FEE;&#x6539;&#x3002;
+&#xFF08;3&#xFF09;&#x60A8;&#x5C06;&#x7EE7;&#x7EED;&#x4F7F;&#x7528;&#x672C;&#x7F51;&#x7AD9;&#x8FDB;&#x884C;&#x6B64;&#x7C7B;&#x4FEE;&#x6539;&#x540E;&#x6784;&#x6210;
+&#xFF08;4&#xFF09;&#x786E;&#x8BA4;&#x5E76;&#x540C;&#x610F;&#x4FEE;&#x6539;&#x540E;&#x7684;&#x6761;&#x6B3E;&#x548C;&#x6761;&#x4EF6;&#x3002;

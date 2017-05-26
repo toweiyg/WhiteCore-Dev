@@ -67,10 +67,10 @@ namespace WhiteCore.Modules.Web
                 vars.Add ("NewsID", news.ID.ToString ());
             } else {
                 if (httpRequest.Query ["newsid"].ToString () == "-1") {
-                    vars.Add ("NewsTitle", "No news to report");
+                    vars.Add("NewsTitle", translator.GetTranslatedString("NoNewsToReport"));// "No news to report");
                     vars.Add ("NewsText", "");
                 } else {
-                    vars.Add ("NewsTitle", "Invalid News Item");
+                    vars.Add("NewsTitle", translator.GetTranslatedString("InvalidNewsItem"));// "Invalid News Item");
                     vars.Add ("NewsText", "");
                 }
                 vars.Add ("NewsID", "-1");

@@ -51,7 +51,31 @@
 <script>
   $(document).ready(function() {
     $('#transactions_list').dataTable( {
-      "order": [[ 0, "asc" ]]
+      "order": [[ 0, "asc" ]],
+		"language": {
+			"sProcessing":   "{DTsProcessing}",
+			"sLengthMenu":   "{DTsLengthMenu}",
+			"sZeroRecords":  "{DTsZeroRecords}",
+			"sInfo":         "{DTsInfo}",
+			"sInfoEmpty":    "{DTsInfoEmpty}",
+			"sInfoFiltered": "{DTsInfoFiltered}",
+			"sInfoPostFix":  "{DTsInfoPostFix}",
+			"sSearch":       "{DTsSearch}",
+			"sUrl":          "{DTsUrl}",
+			"sEmptyTable":     "{DTsEmptyTable}",
+			"sLoadingRecords": "{DTsLoadingRecords}",
+			"sInfoThousands":  "{DTsInfoThousands}",
+			"oPaginate": {
+				"sFirst":    "{DToPaginatesFirst}",
+				"sPrevious": "{DToPaginatesPrevious}",
+				"sNext":     "{DToPaginatesNext}",
+				"sLast":     "{DToPaginatesLast}"
+			},
+			"oAria": {
+				"sSortAscending":  "{DToAriasSortAscending}",
+				"sSortDescending": "{DToAriasSortDescending}"
+			}
+		}
     });
   });
 

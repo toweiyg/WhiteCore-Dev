@@ -79,12 +79,12 @@ namespace WhiteCore.Modules.Web
                         Path = ""
                     });
 
-                    response = "<h3>Successfully logged in</h3>" +
+                    response = "<h3>"+ translator.GetTranslatedString("LoginSuccess") + "</h3>" +
                         "<script language=\"javascript\">" +
                         "setTimeout(function() {window.location.href = \"index.html\";}, 0);" +
                         "</script>";
                 } else
-                    response = "<h3>Failed to verify user name and password</h3>";
+                    response = "<h3>" + translator.GetTranslatedString("LoingFailed") + "</h3>";
                 return null;
             }
 
@@ -107,6 +107,8 @@ namespace WhiteCore.Modules.Web
             vars.Add ("PasswordText", translator.GetTranslatedString ("Password"));
             vars.Add ("ForgotPassword", translator.GetTranslatedString ("ForgotPassword"));
             vars.Add ("Submit", translator.GetTranslatedString ("Login"));
+            vars.Add("HomeUserLogin", translator.GetTranslatedString("HomeUserLogin"));
+
 
             // greythane - 20160826 - do menu and setting updates
             var settings = webInterface.GetWebUISettings ();

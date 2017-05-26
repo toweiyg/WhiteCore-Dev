@@ -1543,3 +1543,98 @@ msgstr "Full Screen"
 msgid "Yes"
 msgstr "Yes"
 
+#add by toweiyg@bnu.edu.cn
+msgid "HomeUserLogin"
+msgstr "User Login"
+
+msgid "LoginSuccess"
+msgstr "Successfully logged in"
+
+msgid "LoingFailed"
+msgstr "Failed to verify user name and password"
+
+msgid "UpdateWebUIsuccess"
+msgstr "Successfully updated WebUI settings;"
+
+msgic "NoNewsToReport"
+msgstr "No News To Report"
+
+msgid "InvalidNewsItem"
+msgstr "Invalid News Item"
+
+msgid "DTsProcessing"
+msgstr "Processing..."
+
+msgid "DTsLengthMenu"
+msgstr "Show _MENU_ entries"
+
+msgid "DTsZeroRecords"
+msgstr "No matching records found"
+
+msgid "DTsInfo"
+msgstr "Showing _START_ to _END_ of _TOTAL_ entries"
+
+msgid "DTsInfoEmpty"
+msgstr "Showing 0 to 0 of 0 entries"
+
+msgid "DTsInfoFiltered"
+msgstr "(filtered from _MAX_ total entries)"
+
+msgid "DTsInfoPostFix"
+msgstr ""
+
+msgid "DTsSearch"
+msgstr "Search:"
+
+msgid "DTsUrl"
+msgstr ""
+
+msgid "DTsEmptyTable"
+msgstr "No data available in table"
+
+msgid "DTsLoadingRecords"
+msgstr "Loading..."
+
+msgid "DTsInfoThousands"
+msgstr ","
+
+msgid "DToPaginatesFirst"
+msgstr "First"
+
+msgid "DToPaginatesPrevious"
+msgstr "Last"
+
+msgid "DToPaginatesNext"
+msgstr "Next"
+
+msgid "DToPaginatesLast"
+msgstr "Previous"
+
+msgid "DToAriasSortAscending"
+msgstr ": activate to sort column ascending"
+
+msgid "DToAriasSortDescending"
+msgstr ": activate to sort column descending"
+
+msgid "AvatarSelection"
+msgstr "Avatar Selection"
+
+msgid "ForPasswordRecoveryOnly"
+msgstr "For password recovery only"
+
+msgid "EnterYourName"
+msgstr "Enter your name"
+
+msgid "YourLoginPassword"
+msgstr "Your login password"
+
+msgid "SuccessfullyCreatedAccount"
+msgstr "Successfully created account, redirecting to main page"
+
+msgid "YouDidNotAcceptTOS"
+msgstr "You did not accept the Terms of Service agreement."
+
+msgid "NoTOS"
+msgstr "There are no Terms of Service currently. This may be changed at any point in the future."
+
+#end add by toweiyg@bnu.edu.cn

@@ -736,9 +736,9 @@ namespace WhiteCore.Modules.Web
     {
         public static readonly GridNewsItem NoNewsItem = new GridNewsItem () {
             ID = -1,
-            Text = "No news to report",
+            Text = "&#x6CA1;&#x6709;&#x65B0;&#x95FB;",
             Time = DateTime.Now,
-            Title = "No news to report"
+            Title = "&#x6CA1;&#x6709;&#x65B0;&#x95FB;"
         };
 
         public string Title;

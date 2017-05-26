@@ -39,7 +39,31 @@ MoreInfoText     More Info
 <script>
   $(document).ready(function(){
     $('#online_users_list').dataTable({
-      "order": [[ 0, "asc" ]]
+      "order": [[ 0, "asc" ]],
+		"language": {
+			"sProcessing":   "{DTsProcessing}",
+			"sLengthMenu":   "{DTsLengthMenu}",
+			"sZeroRecords":  "{DTsZeroRecords}",
+			"sInfo":         "{DTsInfo}",
+			"sInfoEmpty":    "{DTsInfoEmpty}",
+			"sInfoFiltered": "{DTsInfoFiltered}",
+			"sInfoPostFix":  "{DTsInfoPostFix}",
+			"sSearch":       "{DTsSearch}",
+			"sUrl":          "{DTsUrl}",
+			"sEmptyTable":     "{DTsEmptyTable}",
+			"sLoadingRecords": "{DTsLoadingRecords}",
+			"sInfoThousands":  "{DTsInfoThousands}",
+			"oPaginate": {
+				"sFirst":    "{DToPaginatesFirst}",
+				"sPrevious": "{DToPaginatesPrevious}",
+				"sNext":     "{DToPaginatesNext}",
+				"sLast":     "{DToPaginatesLast}"
+			},
+			"oAria": {
+				"sSortAscending":  "{DToAriasSortAscending}",
+				"sSortDescending": "{DToAriasSortDescending}"
+			}
+		}
     });
 
     $(".agentinfo, .regioninfo").colorbox({iframe:true, width:"990px", height:"440px"});

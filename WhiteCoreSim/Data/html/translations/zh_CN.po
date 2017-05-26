@@ -12,1530 +12,1625 @@ msgstr ""
 "Last-Translator: Yungang Wei <toweiyg@bnu.edu.cn>\n"
 "Language-Team: Yungang Wei <toweiyg@bnu.edu.cn>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2 plural=(n != 1)\n"
 "X-Generator: EditPlus3.0\n"
 
 msgid "30daysPastText"
-msgstr "&#x524D;30&#x5929;"
+msgstr "前30天"
 
 msgid "AboutMe"
-msgstr "&#x5173;&#x4E8E;&#x6211;&#x4EEC;"
+msgstr "关于我们"
 
 msgid "AbuseReporterNameText"
-msgstr "&#x62A5;&#x544A;&#x4EBA;"
+msgstr "报告人"
 
 msgid "AbuseReportText"
-msgstr "&#x6EE5;&#x7528;&#x62A5;&#x544A;"
+msgstr "滥用报告"
 
 msgid "AbuserNameText"
-msgstr "&#x6EE5;&#x7528;&#x8005;"
+msgstr "滥用者"
 
 msgid "Accept"
-msgstr "&#x63A5;&#x53D7;"
+msgstr "接受"
 
 msgid "AccountType"
-msgstr "&#x5E10;&#x53F7;&#x7C7B;&#x578B;"
+msgstr "帐号类型"
 
 msgid "ActiveText"
-msgstr "&#x6FC0;&#x6D3B;"
+msgstr "激活"
 
 msgid "AddEstateText"
-msgstr "&#x6DFB;&#x52A0;&#x9886;&#x571F;"
+msgstr "添加领土"
 
 msgid "AddEventText"
-msgstr "&#x6DFB;&#x52A0;&#x4E8B;&#x4EF6;"
+msgstr "添加事件"
 
 msgid "AddItem"
-msgstr "&#x6DFB;&#x52A0;&#x4E00;&#x9879;"
+msgstr "添加一项"
 
 msgid "AddNewsItem"
-msgstr "&#x6DFB;&#x52A0;&#x4E00;&#x7BC7;&#x65B0;&#x95FB;"
+msgstr "添加一篇新闻"
 
 msgid "AddNewsText"
-msgstr "&#x6DFB;&#x52A0;&#x65B0;&#x95FB;"
+msgstr "添加新闻"
 
 msgid "AddRegionText"
-msgstr "&#x6DFB;&#x52A0;&#x5C9B;&#x5C7F;"
+msgstr "添加岛屿"
 
 msgid "AdminBanUserInfoText"
-msgstr "&#x7528;&#x6237;&#x88AB;&#x89E3;&#x7981;&#x524D;&#xFF0C;&#x5C06;&#x4E0D;&#x80FD;&#x767B;&#x5F55;&#x3002;"
+msgstr "用户被解禁前，将不能登录。"
 
 msgid "AdminBanUserText"
-msgstr "&#x7981;&#x6B62;&#x7528;&#x6237;"
+msgstr "禁止用户"
 
 msgid "AdminDeleteUserInfoText"
-msgstr "&#x5220;&#x9664;&#x5E10;&#x53F7;&#x53CA;&#x5176;&#x5173;&#x8054;&#x7684;&#x6240;&#x6709;&#x4FE1;&#x606F;&#x3002;"
+msgstr "删除帐号及其关联的所有信息。"
 
 msgid "AdminDeleteUserText"
-msgstr "&#x5220;&#x9664;&#x7528;&#x6237;"
+msgstr "删除用户"
 
 msgid "AdminLoginInAsUserInfoText"
-msgstr "&#x6CE8;&#x9500;&#x7BA1;&#x7406;&#x5458;&#x5E10;&#x53F7;&#xFF0C;&#x5E76;&#x4EE5;&#x6B64;&#x7528;&#x6237;&#x8EAB;&#x4EFD;&#x767B;&#x5F55;&#xFF0C;&#x4F7F;&#x7528;&#x5176;&#x5E10;&#x53F7;&#x4E0B;&#x7684;&#x529F;&#x80FD;&#x3002;"
+msgstr "注销管理员帐号，并以此用户身份登录，使用其帐号下的功能。"
 
 msgid "AdminLoginInAsUserText"
-msgstr "&#x6A21;&#x62DF;&#x7528;&#x6237;&#x767B;&#x5F55;"
+msgstr "模拟用户登录"
 
 msgid "AdminTempBanUserInfoText"
-msgstr "&#x4E34;&#x65F6;&#x7981;&#x6B62;&#x7528;&#x6237;&#x4E00;&#x6BB5;&#x65F6;&#x95F4;&#x3002;"
+msgstr "临时禁止用户一段时间。"
 
 msgid "AdminTempBanUserText"
-msgstr "&#x4E34;&#x65F6;&#x7981;&#x6B62;"
+msgstr "临时禁止"
 
 msgid "AdminUnbanUserInfoText"
-msgstr "&#x5220;&#x9664;&#x5BF9;&#x7528;&#x6237;&#x7684;&#x4E34;&#x65F6;&#x548C;&#x6C38;&#x4E45;&#x7981;&#x6B62;&#x3002;"
+msgstr "删除对用户的临时和永久禁止。"
 
 msgid "AdminUnbanUserText"
-msgstr "&#x672A;&#x7981;&#x6B62;&#x7528;&#x6237;"
+msgstr "未禁止用户"
 
 msgid "AdminUserTypeInfoText"
-msgstr "&#x7528;&#x6237;&#x7C7B;&#x578B;&#xFF08;&#x76EE;&#x524D;&#x7528;&#x4E8E;&#x53D1;&#x653E;&#x5B9A;&#x671F;&#x6D25;&#x8D34;&#xFF09;&#x3002;"
+msgstr "用户类型（目前用于发放定期津贴）。"
 
 msgid "AdultText"
-msgstr "&#x6210;&#x4EBA;"
+msgstr "成人"
 
 msgid "AgentsInViewText"
-msgstr "&#x89C6;&#x7EBF;&#x8303;&#x56F4;&#x5185;&#x7684;&#x7528;&#x6237;"
+msgstr "视线范围内的用户"
 
 msgid "AllowDirectTeleportText"
-msgstr "&#x8FD0;&#x884C;&#x76F4;&#x63A5;&#x4F20;&#x9001;"
+msgstr "运行直接传送"
 
 msgid "AllowVoiceText"
-msgstr "&#x5141;&#x8BB8;&#x8BED;&#x97F3;"
+msgstr "允许语音"
 
 msgid "Apr_Short"
-msgstr "&#x56DB;&#x6708;"
+msgstr "四月"
 
 msgid "April"
-msgstr "&#x56DB;&#x6708;"
+msgstr "四月"
 
 msgid "Aquatic"
-msgstr "&#x6C34;"
+msgstr "水"
 
 msgid "AssignedToText"
-msgstr "&#x5206;&#x914D;&#x7ED9;"
+msgstr "分配给"
 
 msgid "Aug_Short"
-msgstr "&#x516B;&#x6708;"
+msgstr "八月"
 
 msgid "August"
-msgstr "&#x516B;&#x6708;"
+msgstr "八月"
 
 msgid "AvatarEmailError"
-msgstr "&#x9700;&#x8981;Email&#x5730;&#x5740;&#x4EE5;&#x627E;&#x56DE;&#x5BC6;&#x7801;"
+msgstr "需要Email地址以找回密码"
 
 msgid "AvatarNameError"
-msgstr "&#x672A;&#x8F93;&#x5165;&#x5316;&#x8EAB;&#x7684;&#x540D;&#x5B57;"
+msgstr "未输入化身的名字"
 
 msgid "AvatarNameSpacingError"
-msgstr "&#x60A8;&#x7684;&#x5316;&#x8EAB;&#x540D;&#x5B57;&#x683C;&#x5F0F;&#x4E3A;&#x201C;&#x540D;&#x5B57; &#x59D3;&#x6C0F;&#x201D;&#xFF01;"
+msgstr "您的化身名字格式为“名字 姓氏”！"
 
 msgid "AvatarNameText"
-msgstr "&#x5316;&#x8EAB;&#x540D;&#x5B57;"
+msgstr "化身名字"
 
 msgid "AvatarPasswordError"
-msgstr "&#x5BC6;&#x7801;&#x4E3A;&#x7A7A;&#x6216;&#x4E0D;&#x5339;&#x914D;&#xFF01;"
+msgstr "密码为空或不匹配！"
 
 msgid "AvatarScopeText"
-msgstr "&#x5316;&#x8EAB;ID&#x8303;&#x56F4;"
+msgstr "化身ID范围"
 
 msgid "BackText"
-msgstr "&#x8FD4;&#x56DE;"
+msgstr "返回"
 
 msgid "BankerNameText"
-msgstr "&#x7CFB;&#x7EDF;&#x94F6;&#x884C;&#x5BB6;"
+msgstr "系统银行家"
 
 msgid "BannedUntilText"
-msgstr "&#x7981;&#x6B62;&#x7528;&#x6237;&#x76F4;&#x5230;:"
+msgstr "禁止用户直到:"
 
 msgid "BanText"
-msgstr "&#x7981;&#x6B62;"
+msgstr "禁止"
 
 msgid "Cancel"
-msgstr "&#x53D6;&#x6D88;"
+msgstr "取消"
 
 msgid "CannotSetParentToChild"
-msgstr "&#x65E0;&#x6CD5;&#x5C06;&#x83DC;&#x5355;&#x9879;&#x8BBE;&#x7F6E;&#x4E3A;&#x81EA;&#x5DF1;&#x7684;&#x5B50;&#x83DC;&#x5355;&#x3002;"
+msgstr "无法将菜单项设置为自己的子菜单。"
 
 msgid "CatAll"
-msgstr "&#x6240;&#x6709;"
+msgstr "所有"
 
 msgid "CatArtsCulture"
-msgstr "&#x827A;&#x672F;/&#x6587;&#x5316;"
+msgstr "艺术/文化"
 
 msgid "CatCharitySupport"
-msgstr "&#x6148;&#x5584;&#x673A;&#x6784;/&#x652F;&#x6301;&#x56E2;&#x961F;"
+msgstr "慈善机构/支持团队"
 
 msgid "CatCommercial"
-msgstr "&#x5546;&#x4E1A;"
+msgstr "商业"
 
 msgid "CatDiscussion"
-msgstr "&#x8BA8;&#x8BBA;"
+msgstr "讨论"
 
 msgid "CatEducation"
-msgstr "&#x6559;&#x80B2;"
+msgstr "教育"
 
 msgid "CategoryText"
-msgstr "&#x7C7B;&#x522B;"
+msgstr "类别"
 
 msgid "CatEmployment"
-msgstr "&#x96C7;&#x4F63;"
+msgstr "雇佣"
 
 msgid "CatEntertainment"
-msgstr "&#x591C;&#x573A;/&#x5A31;&#x4E50;"
+msgstr "夜场/娱乐"
 
 msgid "CatGames"
-msgstr "&#x6E38;&#x620F;/&#x6BD4;&#x8D5B;"
+msgstr "游戏/比赛"
 
 msgid "CatLandRental"
-msgstr "&#x571F;&#x5730;&#x79DF;&#x8D41;"
+msgstr "土地租赁"
 
 msgid "CatLiveMusic"
-msgstr "&#x73B0;&#x573A;&#x97F3;&#x4E50;"
+msgstr "现场音乐"
 
 msgid "CatMiscellaneous"
-msgstr "&#x6742;&#x9879;"
+msgstr "杂项"
 
 msgid "CatNewProducts"
-msgstr "&#x65B0;&#x4EA7;&#x54C1;"
+msgstr "新产品"
 
 msgid "CatPageants"
-msgstr "&#x9009;&#x7F8E;"
+msgstr "选美"
 
 msgid "CatPersonal"
-msgstr "&#x4E2A;&#x4EBA;"
+msgstr "个人"
 
 msgid "CatPropertyRental"
-msgstr "&#x7269;&#x4E1A;&#x79DF;&#x8D41;"
+msgstr "物业租赁"
 
 msgid "CatSelect"
 msgstr ""
 
 msgid "CatService"
-msgstr "&#x670D;&#x52A1;"
+msgstr "服务"
 
 msgid "CatShopping"
-msgstr "&#x8D2D;&#x7269;"
+msgstr "购物"
 
 msgid "CatSpecialAttraction"
-msgstr "&#x7279;&#x522B;&#x666F;&#x70B9;"
+msgstr "特别景点"
 
 msgid "CatSports"
-msgstr "&#x4F53;&#x80B2;"
+msgstr "体育"
 
 msgid "CatWanted"
-msgstr "&#x901A;&#x7F09;"
+msgstr "通缉"
 
 msgid "ChangeEmailText"
-msgstr "&#x4FEE;&#x6539;&#x90AE;&#x7BB1;&#x5730;&#x5740;"
+msgstr "修改邮箱地址"
 
 msgid "ChangePass"
-msgstr "&#x4FEE;&#x6539;&#x5BC6;&#x7801;"
+msgstr "修改密码"
 
 msgid "ChangePasswordText"
-msgstr "&#x4FEE;&#x6539;&#x5BC6;&#x7801;"
+msgstr "修改密码"
 
 msgid "ChangesSavedSuccessfully"
-msgstr "&#x4FEE;&#x6539;&#x5DF2;&#x7ECF;&#x6210;&#x529F;&#x4FDD;&#x5B58;"
+msgstr "修改已经成功保存"
 
 msgid "ChangeUserInformationText"
-msgstr "&#x4FEE;&#x6539;&#x7528;&#x6237;&#x4FE1;&#x606F;"
+msgstr "修改用户信息"
 
 msgid "Charter_Member"
-msgstr "&#x5BAA;&#x7AE0;&#x4F1A;&#x5458;"
+msgstr "宪章会员"
 
 msgid "ChatText"
-msgstr "&#x804A;&#x5929;&#x652F;&#x6301;"
+msgstr "聊天支持"
 
 msgid "CheckedText"
-msgstr "&#x5DF2;&#x5BA1;&#x6838;"
+msgstr "已审核"
 
 msgid "ClassifiedsText"
-msgstr "&#x516C;&#x544A;"
+msgstr "公告"
 
 msgid "ClassifiedText"
-msgstr "&#x516C;&#x544A;"
+msgstr "公告"
 
 msgid "ClearStatsText"
-msgstr "&#x6E05;&#x9664;&#x7EDF;&#x8BA1;&#x6570;&#x636E;"
+msgstr "清除统计数据"
 
 msgid "ColorBoxCloseText"
-msgstr "&#x5173;&#x95ED;"
+msgstr "关闭"
 
 msgid "ColorBoxImageText"
-msgstr "&#x56FE;&#x7247;"
+msgstr "图片"
 
 msgid "ColorBoxNextText"
-msgstr "&#x4E0B;&#x4E00;&#x4E2A;"
+msgstr "下一个"
 
 msgid "ColorBoxOfText"
-msgstr "&#x7684;"
+msgstr "的"
 
 msgid "ColorBoxPreviousText"
-msgstr "&#x4EE5;&#x524D;"
+msgstr "以前"
 
 msgid "ColorBoxStartSlideshowText"
-msgstr "&#x5F00;&#x59CB;&#x5E7B;&#x706F;&#x663E;&#x793A;"
+msgstr "开始幻灯显示"
 
 msgid "ColorBoxStopSlideshowText"
-msgstr "&#x505C;&#x6B62;&#x5E7B;&#x706F;&#x663E;&#x793A;"
+msgstr "停止幻灯显示"
 
 msgid "Contractor"
-msgstr "&#x627F;&#x5305;&#x5546;"
+msgstr "承包商"
 
 msgid "CoverChargeText"
-msgstr "&#x5C01;&#x9762;&#x8D39;"
+msgstr "封面费"
 
 msgid "CreationDateText"
-msgstr "&#x6DFB;&#x52A0;&#x65E5;&#x671F;"
+msgstr "添加日期"
 
 msgid "Currency"
-msgstr "&#x8D27;&#x5E01;"
+msgstr "货币"
 
 msgid "CurrentPageText"
-msgstr "&#x5F53;&#x524D;&#x9875;"
+msgstr "当前页"
 
 msgid "Custom"
-msgstr "&#x4E2A;&#x6027;&#x5316;"
+msgstr "个性化"
 
 msgid "DateEndText"
-msgstr "&#x7ED3;&#x675F;&#x65E5;&#x671F;"
+msgstr "结束日期"
 
 msgid "DateInfoText"
-msgstr "&#x9009;&#x62E9;&#x65E5;&#x671F;&#x8303;&#x56F4;"
+msgstr "选择日期范围"
 
 msgid "DateStartText"
-msgstr "&#x5F00;&#x59CB;&#x65E5;&#x671F;"
+msgstr "开始日期"
 
 msgid "DateText"
-msgstr "&#x65E5;&#x671F;"
+msgstr "日期"
 
 msgid "de"
-msgstr "&#x5FB7;&#x8BED;"
+msgstr "德语"
 
 msgid "Dec_Short"
-msgstr "&#x5341;&#x4E8C;&#x6708;"
+msgstr "十二月"
 
 msgid "December"
-msgstr "&#x5341;&#x4E8C;&#x6708;"
+msgstr "十二月"
 
 msgid "DefaultsUpdated"
-msgstr "&#x9ED8;&#x8BA4;&#x66F4;&#x65B0;&#xFF0C;&#x8FDB;&#x5165;&#x7CFB;&#x7EDF;&#x590D;&#x4F4D;&#x4E2D;&#xFF0C;&#x66F4;&#x65B0;&#x6216;&#x8BBE;&#x7F6E;&#x7BA1;&#x7406;&#x5668;&#x4EE5;&#x7981;&#x7528;&#x6B64;&#x8B66;&#x544A;&#x3002;"
+msgstr "默认更新，进入系统复位中，更新或设置管理器以禁用此警告。"
 
 msgid "DelayedText"
-msgstr "&#x5EF6;&#x8FDF;"
+msgstr "延迟"
 
 msgid "DeleteItem"
-msgstr "&#x5220;&#x9664;"
+msgstr "删除"
 
 msgid "DeleteNewsItem"
-msgstr "&#x5220;&#x9664;&#x65B0;&#x95FB;"
+msgstr "删除新闻"
 
 msgid "DeleteNewsText"
-msgstr "&#x5220;&#x9664;&#x65B0;&#x95FB;"
+msgstr "删除新闻"
 
 msgid "DeleteText"
-msgstr "&#x5220;&#x9664;"
+msgstr "删除"
 
 msgid "DeleteUserInfoText"
-msgstr "&#x8FD9;&#x5C06;&#x5220;&#x9664;&#x60A8;&#x5728;&#x4E16;&#x754C;&#x4E2D;&#x7684;&#x6240;&#x6709;&#x4FE1;&#x606F;&#xFF0C;&#x5E76;&#x5220;&#x9664;&#x60A8;&#x5BF9;&#x6B64;&#x670D;&#x52A1;&#x7684;&#x8BBF;&#x95EE;&#x3002; &#x5982;&#x679C;&#x60A8;&#x60F3;&#x7EE7;&#x7EED;&#xFF0C;&#x8BF7;&#x8F93;&#x5165;&#x60A8;&#x7684;&#x59D3;&#x540D;&#x548C;&#x5BC6;&#x7801;&#xFF0C;&#x7136;&#x540E;&#x5355;&#x51FB;&#x5220;&#x9664;&#x3002;"
+msgstr "这将删除您在世界中的所有信息，并删除您对此服务的访问。 如果您想继续，请输入您的姓名和密码，然后单击删除。"
 
 msgid "DeleteUserText"
-msgstr "&#x5220;&#x9664;&#x6211;&#x7684;&#x5E10;&#x53F7;"
+msgstr "删除我的帐号"
 
 msgid "DescriptionText"
-msgstr "&#x63CF;&#x8FF0;"
+msgstr "描述"
 
 msgid "DetailsText"
-msgstr "&#x63CF;&#x8FF0;"
+msgstr "描述"
 
 msgid "Disabled"
-msgstr "&#x7981;&#x6B62;"
+msgstr "禁止"
 
 msgid "DisplayInMenu"
-msgstr "&#x5728;&#x83DC;&#x5355;&#x4E2D;&#x663E;&#x793A;"
+msgstr "在菜单中显示"
 
 msgid "DurationText"
-msgstr "&#x6301;&#x7EED;&#x65F6;&#x95F4;"
+msgstr "持续时间"
 
 msgid "EditNewsItem"
-msgstr "&#x7F16;&#x8F91;&#x65B0;&#x95FB;"
+msgstr "编辑新闻"
 
 msgid "EditNewsText"
-msgstr "&#x7F16;&#x8F91;&#x65B0;&#x95FB;"
+msgstr "编辑新闻"
 
 msgid "EditText"
-msgstr "&#x7F16;&#x8F91;"
+msgstr "编辑"
 
 msgid "EdittingText"
-msgstr "&#x7F16;&#x8F91;&#x4E2D;"
+msgstr "编辑中"
 
 msgid "EditUserAccountText"
-msgstr "&#x7F16;&#x8F91;&#x7528;&#x6237;&#x8D26;&#x6237;"
+msgstr "编辑用户账户"
 
 msgid "en"
-msgstr "&#x82F1;&#x8BED;"
+msgstr "英语"
 
 msgid "Enabled"
-msgstr "&#x542F;&#x7528;"
+msgstr "启用"
 
 msgid "Error404InfoText"
-msgstr "404 &#x65E0;&#x6CD5;&#x627E;&#x5230;&#x9875;&#x9762;"
+msgstr "404 无法找到页面"
 
 msgid "Error404Text"
-msgstr "&#x9519;&#x8BEF;&#x4EE3;&#x7801;"
+msgstr "错误代码"
 
 msgid "Error505InfoText"
-msgstr "505 &#x5185;&#x90E8;&#x670D;&#x52A1;&#x5668;&#x9519;&#x8BEF;"
+msgstr "505 内部服务器错误"
 
 msgid "Error505Text"
-msgstr "&#x9519;&#x8BEF;&#x4EE3;&#x7801;"
+msgstr "错误代码"
 
 msgid "es"
-msgstr "&#x897F;&#x73ED;&#x7259;&#x8BED;"
+msgstr "西班牙语"
 
 msgid "Estate"
-msgstr "&#x9886;&#x571F;"
+msgstr "领土"
 
 msgid "EstatesText"
-msgstr "&#x9886;&#x571F;"
+msgstr "领土"
 
 msgid "EstateText"
-msgstr "&#x9886;&#x571F;"
+msgstr "领土"
 
 msgid "EventDateText"
-msgstr "&#x4EC0;&#x4E48;&#x65F6;&#x5019;"
+msgstr "什么时候"
 
 msgid "EventLocationText"
-msgstr "&#x54EA;&#x91CC;"
+msgstr "哪里"
 
 msgid "EventNameText"
-msgstr "&#x4E8B;&#x4EF6;"
+msgstr "事件"
 
 msgid "EventsText"
-msgstr "&#x4E8B;&#x4EF6;"
+msgstr "事件"
 
 msgid "EventTimeInfoText"
-msgstr "&#x4E8B;&#x4EF6;&#x65F6;&#x95F4;&#x5E94;&#x8BE5;&#x662F;&#x672C;&#x5730;&#x65F6;&#x95F4;"
+msgstr "事件时间应该是本地时间"
 
 msgid "ExpirationDateText"
-msgstr "&#x5230;&#x671F;"
+msgstr "到期"
 
 msgid "FactoryReset"
-msgstr "&#x7CFB;&#x7EDF;&#x590D;&#x4F4D;"
+msgstr "系统复位"
 
 msgid "Feb_Short"
-msgstr "&#x4E8C;&#x6708;"
+msgstr "二月"
 
 msgid "February"
-msgstr "&#x4E8C;&#x6708;"
+msgstr "二月"
 
 msgid "FirstNameText"
-msgstr "&#x4F60;&#x7684;&#x540D;&#x5B57;"
+msgstr "你的名字"
 
 msgid "FirstText"
-msgstr "&#x9996;&#x5148;"
+msgstr "首先"
 
 msgid "Flatland"
-msgstr "&#x5E73;&#x539F;&#x5730;&#x5F62;&#x5C9B;&#x5C7F;"
+msgstr "平原地形岛屿"
 
 msgid "ForgotPassword"
-msgstr "&#x5FD8;&#x8BB0;&#x5BC6;&#x7801;&#xFF1F;"
+msgstr "忘记密码？"
 
 msgid "FPSText"
-msgstr "&#x5E27;/&#x79D2;"
+msgstr "帧/秒"
 
 msgid "fr"
-msgstr "&#x6CD5;&#x8BED;"
+msgstr "法语"
 
 msgid "Fri"
-msgstr "&#x5468;&#x4E94;"
+msgstr "周五"
 
 msgid "Friday"
-msgstr "&#x661F;&#x671F;&#x4E94;"
+msgstr "星期五"
 
 msgid "Friends"
-msgstr "&#x597D;&#x53CB;"
+msgstr "好友"
 
 msgid "FullRegion"
-msgstr "&#x5168;&#x5C9B;&#x5C7F;"
+msgstr "全岛屿"
 
 msgid "GeneralText"
-msgstr "&#x5E38;&#x89C4;"
+msgstr "常规"
 
 msgid "GovernorNameText"
-msgstr "&#x7CFB;&#x7EDF;&#x7BA1;&#x7406;&#x5458;"
+msgstr "系统管理员"
 
 msgid "GPUText"
-msgstr "&#x663E;&#x5361;"
+msgstr "显卡"
 
 msgid "Grassland"
-msgstr "&#x8349;&#x5730;&#x5730;&#x578B;&#x5C9B;&#x5C7F;"
+msgstr "草地地型岛屿"
 
 msgid "GridCenterXText"
-msgstr "&#x4E16;&#x754C;&#x4E2D;&#x5FC3;X&#x5750;&#x6807;"
+msgstr "世界中心X坐标"
 
 msgid "GridCenterYText"
-msgstr "&#x4E16;&#x754C;&#x4E2D;&#x5FC3;Y&#x5750;&#x6807;"
+msgstr "世界中心Y坐标"
 
 msgid "GridnameText"
-msgstr "&#x4E16;&#x754C;&#x540D;"
+msgstr "世界名"
 
 msgid "GridnickText"
-msgstr "&#x4E16;&#x754C;&#x7B80;&#x79F0;"
+msgstr "世界简称"
 
 msgid "GridSettingsManager"
-msgstr "&#x4E16;&#x754C;&#x8BBE;&#x7F6E;&#x7BA1;&#x7406;&#x5458;"
+msgstr "世界设置管理员"
 
 msgid "GridStatus"
-msgstr "&#x4E16;&#x754C;&#x72B6;&#x6001;"
+msgstr "世界状态"
 
 msgid "GroupNameText"
-msgstr "&#x7EC4;"
+msgstr "组"
 
 msgid "Guest"
-msgstr "&#x6E38;&#x5BA2;"
+msgstr "游客"
 
 msgid "HelpText"
-msgstr "&#x5E2E;&#x52A9;"
+msgstr "帮助"
 
 msgid "HelpViewersConfigText"
-msgstr "&#x5BA2;&#x6237;&#x7AEF;&#x914D;&#x7F6E;"
+msgstr "客户端配置"
 
 msgid "HideLanguageBarText"
-msgstr "&#x9690;&#x85CF;&#x8BED;&#x8A00;&#x9009;&#x62E9;&#x6761;"
+msgstr "隐藏语言选择条"
 
 msgid "HideSlideshowBarText"
-msgstr "&#x9690;&#x85CF;&#x5E7B;&#x706F;&#x7247;&#x663E;&#x793A;&#x6761;"
+msgstr "隐藏幻灯片显示条"
 
 msgid "HideStyleBarText"
-msgstr "&#x9690;&#x85CF;&#x6837;&#x5F0F;&#x9009;&#x62E9;&#x6761;"
+msgstr "隐藏样式选择条"
 
 msgid "HomePage404Text"
-msgstr "&#x9996;&#x9875;"
+msgstr "首页"
 
 msgid "HomePage505Text"
-msgstr "&#x9996;&#x9875;"
+msgstr "首页"
 
 msgid "Homestead"
-msgstr "&#x5BB6;&#x56ED;"
+msgstr "家园"
 
 msgid "HomeText"
-msgstr "&#x9996;&#x9875;"
+msgstr "首页"
 
 msgid "HomeTextTips"
-msgstr "&#x65B0;&#x5916;&#x8868;"
+msgstr "新外表"
 
 msgid "HomeTextWelcome"
-msgstr "&#x8FD9;&#x662F;&#x6211;&#x4EEC;&#x7684;&#x65B0;&#x865A;&#x62DF;&#x4E16;&#x754C;&#xFF01; &#x52A0;&#x5165;&#x6211;&#x4EEC;&#xFF0C;&#x5E76;&#x4E14;&#x6709;&#x6240;&#x4F5C;&#x4E3A;&#xFF01;"
+msgstr "这是我们的新虚拟世界！ 加入我们，并且有所作为！"
 
 msgid "HostedByText"
-msgstr "&#x6258;&#x7BA1;&#x65B9;"
+msgstr "托管方"
 
 msgid "HoursText"
-msgstr "&#x5C0F;&#x65F6;"
+msgstr "小时"
 
 msgid "HourText"
-msgstr "&#x5C0F;&#x65F6;"
+msgstr "小时"
 
 msgid "HyperGrid"
-msgstr "&#x8D85;&#x7F51;&#x683C; (HG)"
+msgstr "超网格 (HG)"
 
 msgid "IgnorePagesUpdatesText"
-msgstr "&#x5FFD;&#x7565;&#x9875;&#x9762;&#x66F4;&#x65B0;&#x8B66;&#x544A;&#xFF0C;&#x76F4;&#x5230;&#x4E0B;&#x4E00;&#x6B21;&#x66F4;&#x65B0;"
+msgstr "忽略页面更新警告，直到下一次更新"
 
 msgid "IgnoreSettingsUpdatesText"
-msgstr "&#x5FFD;&#x7565;&#x8BBE;&#x7F6E;&#x66F4;&#x65B0;&#x8B66;&#x544A;&#xFF0C;&#x76F4;&#x5230;&#x4E0B;&#x4E00;&#x6B21;&#x66F4;&#x65B0;"
+msgstr "忽略设置更新警告，直到下一次更新"
 
 msgid "InterWorld"
-msgstr "&#x4E16;&#x754C;&#x5185;&#x90E8; (IWC)"
+msgstr "世界内部 (IWC)"
 
 msgid "Island"
-msgstr "&#x5C9B;&#x5C7F;"
+msgstr "岛屿"
 
 msgid "IsOnlineText"
-msgstr "&#x7528;&#x6237;&#x72B6;&#x6001;"
+msgstr "用户状态"
 
 msgid "it"
-msgstr "&#x610F;&#x5927;&#x5229;&#x8BED;"
+msgstr "意大利语"
 
 msgid "Jan_Short"
-msgstr "&#x4E00;&#x6708;"
+msgstr "一月"
 
 msgid "January"
-msgstr "&#x4E00;&#x6708;"
+msgstr "一月"
 
 msgid "Jul_Short"
-msgstr "&#x4E03;&#x6708;"
+msgstr "七月"
 
 msgid "July"
-msgstr "&#x4E03;&#x6708;"
+msgstr "七月"
 
 msgid "Jun_Short"
-msgstr "&#x516D;&#x6708;"
+msgstr "六月"
 
 msgid "June"
-msgstr "&#x516D;&#x6708;"
+msgstr "六月"
 
 msgid "KickAUserInfoText"
-msgstr "&#x4ECE;&#x4E16;&#x754C;&#x4E2D;&#x8E22;&#x51FA;&#x7528;&#x6237;&#xFF08;30&#x79D2;&#x5185;&#x8BA9;&#x7528;&#x6237;&#x9000;&#x51FA;&#xFF09;"
+msgstr "从世界中踢出用户（30秒内让用户退出）"
 
 msgid "KickAUserText"
-msgstr "&#x8E22;&#x7528;&#x6237;"
+msgstr "踢用户"
 
 msgid "KickMessageText"
-msgstr "&#x7528;&#x6237;&#x6D88;&#x606F;"
+msgstr "用户消息"
 
 msgid "KickUserText"
-msgstr "&#x8E22;&#x7528;&#x6237;"
+msgstr "踢用户"
 
 msgid "LastNameText"
-msgstr "&#x4F60;&#x7684;&#x59D3;&#x6C0F;"
+msgstr "你的姓氏"
 
 msgid "LastText"
-msgstr "&#x6700;&#x540E;"
+msgstr "最后"
 
 msgid "ListedByText"
-msgstr " &#x5217;&#x8868;&#x65B9;&#x5F0F;"
+msgstr " 列表方式"
 
 msgid "LocalCSSText"
-msgstr "&#x672C;&#x5730;CSS&#x6837;&#x5F0F;&#x8868;"
+msgstr "本地CSS样式表"
 
 msgid "LocalFrontPageText"
-msgstr "&#x672C;&#x5730;&#x9996;&#x9875;"
+msgstr "本地首页"
 
 msgid "LocationText"
-msgstr "&#x4F4D;&#x7F6E;"
+msgstr "位置"
 
 msgid "LoggedIPText"
-msgstr "&#x767B;&#x5F55;IP&#x5730;&#x5740;"
+msgstr "登录IP地址"
 
 msgid "LoggedOutSuccessfullyText"
-msgstr "&#x5DF2;&#x7ECF;&#x6210;&#x529F;&#x6CE8;&#x9500;&#x3002;"
+msgstr "已经成功注销。"
 
 msgid "Login"
-msgstr "&#x767B;&#x5F55;"
+msgstr "登录"
 
 msgid "Logout"
-msgstr "&#x6CE8;&#x9500;"
+msgstr "注销"
 
 msgid "Mainland"
-msgstr "&#x5927;&#x9646;"
+msgstr "大陆"
 
 msgid "MainlandEstateNameText"
-msgstr "&#x5927;&#x9646;&#x9886;&#x571F;"
+msgstr "大陆领土"
 
 msgid "Mar_Short"
-msgstr "&#x4E09;&#x6708;"
+msgstr "三月"
 
 msgid "March"
-msgstr "&#x4E09;&#x6708;"
+msgstr "三月"
 
 msgid "MarketPlaceOwnerNameText"
-msgstr "&#x7CFB;&#x7EDF;&#x5E02;&#x573A;&#x62E5;&#x6709;&#x8005;"
+msgstr "系统市场拥有者"
 
 msgid "MatureText"
-msgstr "&#x5230;&#x671F;"
+msgstr "到期"
 
 msgid "MaturityText"
-msgstr "&#x5230;&#x671F;"
+msgstr "到期"
 
 msgid "May"
-msgstr "&#x4E94;&#x6708;"
+msgstr "五月"
 
 msgid "May_Short"
-msgstr "&#x4E94;&#x6708;"
+msgstr "五月"
 
 msgid "Member"
-msgstr "&#x6210;&#x5458;"
+msgstr "成员"
 
 msgid "MemoryUseageText"
-msgstr "&#x5185;&#x5B58;&#x4F7F;&#x7528;"
+msgstr "内存使用"
 
 msgid "MenuAbuse"
-msgstr "&#x6EE5;&#x7528;&#x62A5;&#x544A;"
+msgstr "滥用报告"
 
 msgid "MenuChangeUserInformation"
-msgstr "&#x4FEE;&#x6539;&#x7528;&#x6237;&#x4FE1;&#x606F;"
+msgstr "修改用户信息"
 
 msgid "MenuChat"
-msgstr "&#x804A;&#x5929;"
+msgstr "聊天"
 
 msgid "MenuClassifieds"
-msgstr "&#x516C;&#x544A;"
+msgstr "公告"
 
 msgid "MenuEstateManager"
-msgstr "&#x9886;&#x571F;&#x7BA1;&#x7406;"
+msgstr "领土管理"
 
 msgid "MenuEvents"
-msgstr "&#x4E8B;&#x4EF6;"
+msgstr "事件"
 
 msgid "MenuFactoryReset"
-msgstr "&#x7CFB;&#x7EDF;&#x590D;&#x4F4D;"
+msgstr "系统复位"
 
 msgid "MenuForgotPass"
-msgstr "&#x5FD8;&#x8BB0;&#x5BC6;&#x7801;"
+msgstr "忘记密码"
 
 msgid "MenuGridSettings"
-msgstr "&#x4E16;&#x754C;&#x8BBE;&#x7F6E;"
+msgstr "世界设置"
 
 msgid "MenuGroupTitle"
-msgstr "&#x7EC4;"
+msgstr "组"
 
 msgid "MenuHelp"
-msgstr "&#x5E2E;&#x52A9;"
+msgstr "帮助"
 
 msgid "MenuHome"
-msgstr "&#x9996;&#x9875;"
+msgstr "首页"
 
 msgid "MenuLogin"
-msgstr "&#x767B;&#x5F55;"
+msgstr "登录"
 
 msgid "MenuLogout"
-msgstr "&#x6CE8;&#x9500;"
+msgstr "注销"
 
 msgid "MenuManager"
-msgstr "&#x7BA1;&#x7406;"
+msgstr "管理"
 
 msgid "MenuManagerSimConsole"
-msgstr "&#x4EFF;&#x771F;&#x5668;&#x63A7;&#x5236;&#x53F0;"
+msgstr "仿真器控制台"
 
 msgid "MenuMyClassifieds"
-msgstr "&#x6211;&#x7684;&#x516C;&#x544A;"
+msgstr "我的公告"
 
 msgid "MenuMyEvents"
-msgstr "&#x6211;&#x7684;&#x4E8B;&#x4EF6;"
+msgstr "我的事件"
 
 msgid "MenuMyPurchases"
-msgstr "&#x6211;&#x7684;&#x8D2D;&#x4E70;"
+msgstr "我的购买"
 
 msgid "MenuMyTransactions"
-msgstr "&#x6211;&#x7684;&#x4EA4;&#x6613;"
+msgstr "我的交易"
 
 msgid "MenuNews"
-msgstr "&#x65B0;&#x95FB;"
+msgstr "新闻"
 
 msgid "MenuNewsManager"
-msgstr "&#x65B0;&#x95FB;&#x7BA1;&#x7406;"
+msgstr "新闻管理"
 
 msgid "MenuOnlineUsers"
-msgstr "&#x5728;&#x7EBF;&#x7528;&#x6237;"
+msgstr "在线用户"
 
 msgid "MenuOwnerTitle"
-msgstr "&#x62E5;&#x6709;&#x8005;"
+msgstr "拥有者"
 
 msgid "MenuPageManager"
-msgstr "&#x9875;&#x9762;&#x7BA1;&#x7406;"
+msgstr "页面管理"
 
 msgid "MenuParcelTitle"
-msgstr "&#x5730;&#x5757;"
+msgstr "地块"
 
 msgid "MenuPicksTitle"
-msgstr "&#x7CBE;&#x9009;"
+msgstr "精选"
 
 msgid "MenuProfileTitle"
-msgstr "&#x4E2A;&#x4EBA;&#x8D44;&#x6599;"
+msgstr "个人资料"
 
 msgid "MenuPurchases"
-msgstr "&#x7528;&#x6237;&#x8D2D;&#x4E70;"
+msgstr "用户购买"
 
 msgid "MenuRegion"
-msgstr "&#x5C9B;&#x5C7F;&#x5217;&#x8868;"
+msgstr "岛屿列表"
 
 msgid "MenuRegionManager"
-msgstr "&#x5C9B;&#x5C7F;&#x7BA1;&#x7406;"
+msgstr "岛屿管理"
 
 msgid "MenuRegionSearch"
-msgstr "&#x5C9B;&#x5C7F;&#x641C;&#x7D22;"
+msgstr "岛屿搜索"
 
 msgid "MenuRegionsTitle"
-msgstr "&#x5C9B;&#x5C7F;"
+msgstr "岛屿"
 
 msgid "MenuRegionTitle"
-msgstr "&#x5C9B;&#x5C7F;"
+msgstr "岛屿"
 
 msgid "MenuRegister"
-msgstr "&#x6CE8;&#x518C;"
+msgstr "注册"
 
 msgid "MenuSettings"
-msgstr "&#x8BBE;&#x7F6E;"
+msgstr "设置"
 
 msgid "MenuSettingsManager"
-msgstr "Web&#x754C;&#x9762;&#x8BBE;&#x7F6E;"
+msgstr "Web界面设置"
 
 msgid "MenuStatistics"
-msgstr "&#x5BA2;&#x6237;&#x7AEF;&#x7EDF;&#x8BA1;"
+msgstr "客户端统计"
 
 msgid "MenuTransactions"
-msgstr "&#x7528;&#x6237;&#x4EA4;&#x6613;"
+msgstr "用户交易"
 
 msgid "MenuUser"
-msgstr "&#x7528;&#x6237;"
+msgstr "用户"
 
 msgid "MenuUserManager"
-msgstr "&#x7528;&#x6237;&#x7BA1;&#x7406;"
+msgstr "用户管理"
 
 msgid "MenuUserSearch"
-msgstr "&#x7528;&#x6237;&#x641C;&#x7D22;"
+msgstr "用户搜索"
 
 msgid "MenuViewerHelp"
-msgstr "&#x5BA2;&#x6237;&#x7AEF;&#x5E2E;&#x52A9;"
+msgstr "客户端帮助"
 
 msgid "MenuWelcomeScreenManager"
-msgstr "&#x6B22;&#x8FCE;&#x754C;&#x9762;&#x7BA1;&#x7406;"
+msgstr "欢迎界面管理"
 
 msgid "MenuWorld"
-msgstr "&#x4E16;&#x754C;"
+msgstr "世界"
 
 msgid "MenuWorldMap"
-msgstr "&#x4E16;&#x754C;&#x5730;&#x56FE;"
+msgstr "世界地图"
 
 msgid "MessageAUserInfoText"
-msgstr "&#x7ED9;&#x7528;&#x6237;&#x53D1;&#x9001;&#x4E00;&#x6761;&#x84DD;&#x8272;&#x76D2;&#x5B50;&#x6D88;&#x606F;&#xFF08;30&#x79D2;&#x5185;&#x5230;&#x8FBE;&#xFF09;"
+msgstr "给用户发送一条蓝色盒子消息（30秒内到达）"
 
 msgid "MessageAUserText"
-msgstr "&#x5411;&#x7528;&#x6237;&#x53D1;&#x9001;&#x6D88;&#x606F;"
+msgstr "向用户发送消息"
 
 msgid "MessageUserText"
-msgstr "&#x7559;&#x8A00;&#x7528;&#x6237;"
+msgstr "留言用户"
 
 msgid "MinutesText"
-msgstr "&#x5206;"
+msgstr "分"
 
 msgid "MinuteText"
-msgstr "&#x5206;"
+msgstr "分"
 
 msgid "Mon"
-msgstr "&#x5468;&#x4E00;"
+msgstr "周一"
 
 msgid "Monday"
-msgstr "&#x661F;&#x671F;&#x4E00;"
+msgstr "星期一"
 
 msgid "MoreInfo"
-msgstr "&#x66F4;&#x591A;&#x4FE1;&#x606F;"
+msgstr "更多信息"
 
 msgid "MoreInfoText"
-msgstr "&#x66F4;&#x591A;"
+msgstr "更多"
 
 msgid "Name"
-msgstr "&#x540D;&#x5B57;"
+msgstr "名字"
 
 msgid "NewEmailText"
-msgstr "&#x65B0;&#x90AE;&#x7BB1;&#x5730;&#x5740;"
+msgstr "新邮箱地址"
 
 msgid "NewPasswordConfirmationText"
-msgstr "&#x786E;&#x8BA4;&#x65B0;&#x5BC6;&#x7801;"
+msgstr "确认新密码"
 
 msgid "NewPasswordText"
-msgstr "&#x65B0;&#x5BC6;&#x7801;"
+msgstr "新密码"
 
 msgid "News"
-msgstr "&#x65B0;&#x95FB;"
+msgstr "新闻"
 
 msgid "NewsDateText"
-msgstr "&#x65B0;&#x95FB;&#x65E5;&#x671F;"
+msgstr "新闻日期"
 
 msgid "NewsItemText"
-msgstr "&#x65B0;&#x95FB;&#x5185;&#x5BB9;"
+msgstr "新闻内容"
 
 msgid "NewsItemTitle"
-msgstr "&#x65B0;&#x95FB;&#x6807;&#x9898;"
+msgstr "新闻标题"
 
 msgid "NewsManager"
-msgstr "&#x65B0;&#x95FB;&#x7BA1;&#x7406;&#x5458;"
+msgstr "新闻管理员"
 
 msgid "NewsTitleText"
-msgstr "&#x65B0;&#x95FB;&#x6807;&#x9898;"
+msgstr "新闻标题"
 
 msgid "Next10Hours"
-msgstr "&#x4E0B;10&#x5C0F;&#x65F6;"
+msgstr "下10小时"
 
 msgid "Next24Hours"
-msgstr "&#x4E0B;24&#x5C0F;&#x65F6;"
+msgstr "下24小时"
 
 msgid "Next2Hours"
-msgstr "&#x4E0B;2&#x5C0F;&#x65F6;"
+msgstr "下2小时"
 
 msgid "Next4Hours"
-msgstr "&#x4E0B;4&#x5C0F;&#x65F6;"
+msgstr "下4小时"
 
 msgid "NextText"
-msgstr "&#x4E0B;&#x4E00;&#x6B65;"
+msgstr "下一步"
 
 msgid "nl"
-msgstr "&#x8377;&#x5170;"
+msgstr "荷兰"
 
 msgid "No"
-msgstr "&#x5426;"
+msgstr "否"
 
 msgid "NoAccountFound"
-msgstr "&#x672A;&#x53D1;&#x73B0;&#x5E10;&#x53F7;"
+msgstr "未发现帐号"
 
 msgid "NoChangePass"
-msgstr "&#x65E0;&#x6CD5;&#x4FEE;&#x6539;&#x5BC6;&#x7801;&#xFF0C;&#x8BF7;&#x7A0D;&#x540E;&#x518D;&#x8BD5;&#x3002;"
+msgstr "无法修改密码，请稍后再试。"
 
 msgid "NoDetailsText"
-msgstr "&#x672A;&#x627E;&#x5230;&#x7EC6;&#x8282;&#x4FE1;&#x606F;..."
+msgstr "未找到细节信息..."
 
 msgid "NoPurchasesText"
-msgstr "&#x672A;&#x627E;&#x5230;&#x8D2D;&#x4E70;&#x8BB0;&#x5F55;..."
+msgstr "未找到购买记录..."
 
 msgid "NormalText"
-msgstr "&#x6B63;&#x5E38;"
+msgstr "正常"
 
 msgid "NotesText"
-msgstr "&#x7B14;&#x8BB0;"
+msgstr "笔记"
 
 msgid "Nothing"
-msgstr "&#x65E0;"
+msgstr "无"
 
 msgid "NoTransactionsText"
-msgstr "&#x672A;&#x627E;&#x5230;&#x4EA4;&#x6613;&#x8BB0;&#x5F55;..."
+msgstr "未找到交易记录..."
 
 msgid "Nov_Short"
-msgstr "&#x5341;&#x4E00;&#x6708;"
+msgstr "十一月"
 
 msgid "November"
-msgstr "&#x5341;&#x4E00;&#x6708;"
+msgstr "十一月"
 
 msgid "NumberOfUsersInRegionText"
-msgstr "&#x5C9B;&#x5C7F;&#x4E2D;&#x7528;&#x6237;&#x6570;&#x91CF;"
+msgstr "岛屿中用户数量"
 
 msgid "ObjectNameText"
-msgstr "&#x7269;&#x4F53;"
+msgstr "物体"
 
 msgid "Oct_Short"
-msgstr "&#x5341;&#x6708;"
+msgstr "十月"
 
 msgid "October"
-msgstr "&#x5341;&#x6708;"
+msgstr "十月"
 
 msgid "Offline"
-msgstr "&#x79BB;&#x7EBF;"
+msgstr "离线"
 
 msgid "Online"
-msgstr "&#x5728;&#x7EBF;"
+msgstr "在线"
 
 msgid "OnlineFriendsText"
-msgstr "&#x5728;&#x7EBF;&#x597D;&#x53CB;"
+msgstr "在线好友"
 
 msgid "OnlineLocationText"
-msgstr "&#x7528;&#x6237;&#x4F4D;&#x7F6E;"
+msgstr "用户位置"
 
 msgid "OnlineNow"
-msgstr "&#x5F53;&#x524D;&#x5728;&#x7EBF;"
+msgstr "当前在线"
 
 msgid "OnlineUsersText"
-msgstr "&#x5728;&#x7EBF;&#x7528;&#x6237;"
+msgstr "在线用户"
 
 msgid "OpenNewsManager"
-msgstr "&#x6253;&#x5F00;&#x65B0;&#x95FB;&#x7BA1;&#x7406;&#x5668;"
+msgstr "打开新闻管理器"
 
 msgid "Openspace"
-msgstr "&#x5F00;&#x653E;&#x7A7A;&#x95F4;"
+msgstr "开放空间"
 
 msgid "OwnerNameText"
-msgstr "&#x62E5;&#x6709;&#x8005;&#x540D;&#x5B57;
+msgstr "拥有者名字
 
 msgid "PageIDText"
-msgstr "&#x9875;&#x9762;ID"
+msgstr "页面ID"
 
 msgid "PageLocationText"
-msgstr "&#x9875;&#x9762;&#x4F4D;&#x7F6E;"
+msgstr "页面位置"
 
 msgid "PageManager"
-msgstr "&#x9875;&#x9762;&#x7BA1;&#x7406;"
+msgstr "页面管理"
 
 msgid "PagePositionText"
-msgstr "&#x9875;&#x9762;&#x4F4D;&#x7F6E;"
+msgstr "页面位置"
 
 msgid "Pages"
-msgstr "&#x9875;&#x9762;"
+msgstr "页面"
 
 msgid "PageTitleText"
-msgstr "&#x9875;&#x9762;&#x6807;&#x9898;"
+msgstr "页面标题"
 
 msgid "PageTooltipText"
-msgstr "&#x9875;&#x9762;&#x63D0;&#x793A;"
+msgstr "页面提示"
 
 msgid "ParcelNameText"
-msgstr "&#x5730;&#x5757;&#x540D;&#x5B57;"
+msgstr "地块名字"
 
 msgid "ParcelOwnerText"
-msgstr "&#x5730;&#x5757;&#x62E5;&#x6709;&#x8005;&#x59D3;&#x540D;"
+msgstr "地块拥有者姓名"
 
 msgid "ParcelsInRegionText"
-msgstr "&#x5C9B;&#x5C7F;&#x4E2D;&#x7684;&#x5730;&#x5757;"
+msgstr "岛屿中的地块"
 
 msgid "ParentText"
-msgstr "&#x7236;&#x83DC;&#x5355;"
+msgstr "父菜单"
 
 msgid "Partner"
-msgstr "&#x4F19;&#x4F34;"
+msgstr "伙伴"
 
 msgid "PartnersName"
-msgstr "&#x4F19;&#x4F34;&#x59D3;&#x540D;"
+msgstr "伙伴姓名"
 
 msgid "Password"
-msgstr "&#x5BC6;&#x7801;"
+msgstr "密　码"
 
 msgid "PasswordConfirmation"
-msgstr "&#x786E;&#x8BA4;&#x5BC6;&#x7801;"
+msgstr "确认密码"
 
 msgid "PasswordText"
-msgstr "&#x5BC6;&#x7801;"
+msgstr "密码"
 
 msgid "PerformanceText"
-msgstr "&#x6027;&#x80FD;&#x5E73;&#x5747;&#x503C;"
+msgstr "性能平均值"
 
 msgid "PickNameText"
-msgstr "&#x9009;&#x62E9;&#x540D;&#x79F0;"
+msgstr "选择名称"
 
 msgid "PickRegionText"
-msgstr "&#x4F4D;&#x7F6E;"
+msgstr "位置"
 
 msgid "PingTimeText"
-msgstr "&#x5E73;&#x65F6;"
+msgstr "平时"
 
 msgid "PriceOfListingText"
-msgstr "&#x4EF7;&#x683C;"
+msgstr "价格"
 
 msgid "PricePerMeterText"
-msgstr "&#x6BCF;&#x5E73;&#x7C73;&#x4EF7;&#x683C;"
+msgstr "每平米价格"
 
 msgid "PublicAccessText"
-msgstr "&#x516C;&#x5171;&#x8BBF;&#x95EE;"
+msgstr "公共访问"
 
 msgid "PurchaseCostText"
-msgstr "&#x82B1;&#x9500;"
+msgstr "花销"
 
 msgid "PurchasesText"
-msgstr "&#x8D2D;&#x4E70;"
+msgstr "购买"
 
 msgid "RealEstateOwnerNameText"
-msgstr "&#x7CFB;&#x7EDF;&#x5730;&#x4EA7;&#x62E5;&#x6709;&#x8005;"
+msgstr "系统地产拥有者"
 
 msgid "Region"
-msgstr "&#x5C9B;&#x5C7F;"
+msgstr "岛屿"
 
 msgid "RegionCapacityText"
-msgstr "&#x5C9B;&#x5C7F;&#x5143;&#x4EF6;&#x5BB9;&#x91CF;"
+msgstr "岛屿元件容量"
 
 msgid "RegionDelayStartupText"
-msgstr "&#x5EF6;&#x8FDF;&#x542F;&#x52A8;&#x811A;&#x672C;"
+msgstr "延迟启动脚本"
 
 msgid "RegionInfiniteText"
-msgstr "&#x65E0;&#x8FB9;&#x9645;&#x5C9B;&#x5C7F;"
+msgstr "无边际岛屿"
 
 msgid "RegionInformationText"
-msgstr "&#x5C9B;&#x5C7F;&#x4FE1;&#x606F;"
+msgstr "岛屿信息"
 
 msgid "RegionInfoText"
-msgstr "&#x5C9B;&#x5C7F;&#x4FE1;&#x606F;"
+msgstr "岛屿信息"
 
 msgid "RegionListText"
-msgstr "&#x5C9B;&#x5C7F;&#x5217;&#x8868;"
+msgstr "岛屿列表"
 
 msgid "RegionLocationText"
-msgstr "&#x5C9B;&#x5C7F;&#x4F4D;&#x7F6E;"
+msgstr "岛屿位置"
 
 msgid "RegionLocXText"
-msgstr "&#x5C9B;&#x5C7F;X&#x5750;&#x6807;"
+msgstr "岛屿X坐标"
 
 msgid "RegionLocYText"
-msgstr "&#x5C9B;&#x5C7F;Y&#x5750;&#x6807;"
+msgstr "岛屿Y坐标"
 
 msgid "RegionMaturityText"
-msgstr "&#x8BBF;&#x95EE;&#x7EA7;&#x522B;"
+msgstr "访问级别"
 
 msgid "RegionMoreInfo"
-msgstr "&#x66F4;&#x591A;&#x4FE1;&#x606F;"
+msgstr "更多信息"
 
 msgid "RegionMoreInfoTooltips"
-msgstr "&#x66F4;&#x591A;&#x76F8;&#x5173;&#x4FE1;&#x606F;"
+msgstr "更多相关信息"
 
 msgid "RegionNameText"
-msgstr "&#x5C9B;&#x5C7F;&#x540D;&#x5B57;"
+msgstr "岛屿名字"
 
 msgid "RegionOnlineText"
-msgstr "&#x5C9B;&#x5C7F;&#x72B6;&#x6001;"
+msgstr "岛屿状态"
 
 msgid "RegionPortText"
-msgstr "&#x5C9B;&#x5C7F;&#x7AEF;&#x53E3;"
+msgstr "岛屿端口"
 
 msgid "RegionPresetText"
-msgstr "&#x5C9B;&#x5C7F;&#x9884;&#x8BBE;"
+msgstr "岛屿预设"
 
 msgid "RegionPresetTypeText"
-msgstr "&#x5C9B;&#x5C7F;&#x9884;&#x8BBE;&#x7C7B;&#x578B;"
+msgstr "岛屿预设类型"
 
 msgid "RegionSearchText"
-msgstr "&#x5C9B;&#x5C7F;&#x641C;&#x7D22;"
+msgstr "岛屿搜索"
 
 msgid "RegionSizeText"
-msgstr "&#x5C9B;&#x5C7F;&#x5927;&#x5C0F;"
+msgstr "岛屿大小"
 
 msgid "RegionsVisitedText"
-msgstr "&#x5DF2;&#x8BBF;&#x95EE;&#x5C9B;&#x5C7F;"
+msgstr "已访问岛屿"
 
 msgid "RegionTerrainText"
-msgstr "&#x5C9B;&#x5C7F;&#x5730;&#x5F62;"
+msgstr "岛屿地形"
 
 msgid "RegionTypeText"
-msgstr "&#x5C9B;&#x5C7F;&#x7C7B;&#x578B;"
+msgstr "岛屿类型"
 
 msgid "RegionVisibilityText"
-msgstr "&#x90BB;&#x5C9B;&#x53EF;&#x89C1;"
+msgstr "邻岛可见"
 
 msgid "RegistrationsDisabled"
-msgstr "&#x5F53;&#x524D;&#x6CE8;&#x518C;&#x88AB;&#x7981;&#x6B62;&#xFF0C;&#x8BF7;&#x7A0D;&#x540E;&#x5C1D;&#x8BD5;&#x3002;"
+msgstr "当前注册被禁止，请稍后尝试。"
 
 msgid "RegistrationText"
-msgstr &#x5316;&#x8EAB;&#x6CE8;&#x518C;"
+msgstr 注册用户"
 
 msgid "RequiresAdminLevelText"
-msgstr "&#x9700;&#x8981;&#x7BA1;&#x7406;&#x6743;&#x9650;&#x624D;&#x80FD;&#x67E5;&#x770B;"
+msgstr "需要管理权限才能查看"
 
 msgid "RequiresAdminText"
-msgstr "&#x9700;&#x8981;&#x7BA1;&#x7406;&#x5458;&#x624D;&#x80FD;&#x67E5;&#x770B;"
+msgstr "需要管理员才能查看"
 
 msgid "RequiresLoginText"
-msgstr "&#x9700;&#x8981;&#x767B;&#x5F55;&#x624D;&#x80FD;&#x67E5;&#x770B;"
+msgstr "需要登录才能查看"
 
 msgid "RequiresLogoutText"
-msgstr "&#x9700;&#x8981;&#x6CE8;&#x9500;&#x624D;&#x80FD;&#x67E5;&#x770B;"
+msgstr "需要注销才能查看"
 
 msgid "Reset"
-msgstr "&#x91CD;&#x7F6E;"
+msgstr "重置"
 
 msgid "ResetMenuInfoText"
-msgstr "&#x91CD;&#x7F6E;&#x83DC;&#x5355;&#x9879;&#x4E3A;&#x66F4;&#x65B0;&#x6700;&#x9891;&#x7E41;&#x7684;&#x9ED8;&#x8BA4;&#x503C;"
+msgstr "重置菜单项为更新最频繁的默认值"
 
 msgid "ResetMenuText"
-msgstr "&#x91CD;&#x7F6E;&#x83DC;&#x5355;&#x4E3A;&#x7CFB;&#x7EDF;&#x9ED8;&#x8BA4;&#x503C;"
+msgstr "重置菜单为系统默认值"
 
 msgid "ResetSettingsInfoText"
-msgstr "&#x91CD;&#x7F6E;Web&#x754C;&#x9762;&#x4E3A;&#x66F4;&#x65B0;&#x6700;&#x9891;&#x7E41;&#x7684;&#x9ED8;&#x8BA4;&#x503C;"
+msgstr "重置Web界面为更新最频繁的默认值"
 
 msgid "ResetSettingsText"
-msgstr "&#x91CD;&#x7F6E;&#x7F51;&#x9875;&#x8BBE;&#x7F6E;&#x4E3A;&#x7CFB;&#x7EDF;&#x9ED8;&#x8BA4;&#x503C;"
+msgstr "重置网页设置为系统默认值"
 
 msgid "Resident"
-msgstr "&#x5C45;&#x6C11;"
+msgstr "居民"
 
 msgid "ResidentSince"
-msgstr "&#x5C45;&#x6C11;&#x81EA;"
+msgstr "居民自"
 
 msgid "ru"
-msgstr "&#x4FC4;&#x56FD;"
+msgstr "俄国"
 
 msgid "RunTimeText"
-msgstr "&#x8FD0;&#x884C;&#x65F6;&#x95F4;"
+msgstr "运行时间"
 
 msgid "Sat"
-msgstr "&#x5468;&#x516D;"
+msgstr "周六"
 
 msgid "Saturday"
-msgstr "&#x661F;&#x671F;&#x516D;"
+msgstr "星期六"
 
 msgid "Save"
-msgstr "&#x4FDD;&#x5B58;"
+msgstr "保存"
 
 msgid "SaveMenuItemChanges"
-msgstr "&#x4FDD;&#x5B58;&#x83DC;&#x5355;&#x9879;"
+msgstr "保存菜单项"
 
 msgid "SaveUpdates"
-msgstr "&#x4FDD;&#x5B58;&#x66F4;&#x65B0;"
+msgstr "保存更新"
 
 msgid "Search"
-msgstr "&#x641C;&#x7D22;"
+msgstr "搜索"
 
 msgid "SearchForRegionText"
-msgstr "&#x641C;&#x7D22;&#x5C9B;&#x5C7F;"
+msgstr "搜索岛屿"
 
 msgid "SearchForUserText"
-msgstr "&#x641C;&#x7D22;&#x7528;&#x6237;"
+msgstr "搜索用户"
 
 msgid "SearchResultForRegionText"
-msgstr "&#x5C9B;&#x5C7F;&#x641C;&#x7D22;&#x7ED3;&#x679C;"
+msgstr "岛屿搜索结果"
 
 msgid "SearchResultForUserText"
-msgstr "&#x7528;&#x6237;&#x641C;&#x7D22;&#x7ED3;&#x679C;"
+msgstr "用户搜索结果"
 
 msgid "SearchText"
-msgstr "&#x641C;&#x7D22;"
+msgstr "搜索"
 
 msgid "SelectItem"
-msgstr "&#x9009;&#x62E9;&#x9879;"
+msgstr "选择项"
 
 msgid "Sep_Short"
-msgstr "&#x4E5D;&#x6708;"
+msgstr "九月"
 
 msgid "September"
-msgstr "&#x4E5D;&#x6708;"
+msgstr "九月"
 
 msgid "Settings"
-msgstr "&#x8BBE;&#x7F6E;"
+msgstr "设置"
 
 msgid "SettingsManager"
-msgstr "&#x8BBE;&#x7F6E;&#x7BA1;&#x7406;"
+msgstr "设置管理"
 
 msgid "SimCommandText"
-msgstr "&#x547D;&#x4EE4;"
+msgstr "命令"
 
 msgid "SimConsoleText"
-msgstr "&#x4EFF;&#x771F;&#x5668;&#x547D;&#x4EE4;&#x63A7;&#x5236;&#x53F0;"
+msgstr "仿真器命令控制台"
 
 msgid "SortByLocX"
-msgstr "&#x901A;&#x8FC7;&#x5C9B;&#x5C7F;X&#x5750;&#x6807;&#x7B5B;&#x9009;"
+msgstr "通过岛屿X坐标筛选"
 
 msgid "SortByLocY"
-msgstr "&#x901A;&#x8FC7;&#x5C9B;&#x5C7F;Y&#x5750;&#x6807;&#x7B5B;&#x9009;"
+msgstr "通过岛屿Y坐标筛选"
 
 msgid "SortByName"
-msgstr "&#x901A;&#x8FC7;&#x5C9B;&#x5C7F;&#x540D;&#x79F0;&#x7B5B;&#x9009;"
+msgstr "通过岛屿名称筛选"
 
 msgid "SpecialWindowColorText"
-msgstr "&#x7279;&#x6B8A;&#x4FE1;&#x606F;&#x7A97;&#x53E3;&#x989C;&#x8272;"
+msgstr "特殊信息窗口颜色"
 
 msgid "SpecialWindowStatusText"
-msgstr "&#x7279;&#x6B8A;&#x4FE1;&#x606F;&#x7A97;&#x53E3;&#x72B6;&#x6001;"
+msgstr "特殊信息窗口状态"
 
 msgid "SpecialWindowTextText"
-msgstr "&#x7279;&#x8272;&#x4FE1;&#x606F;&#x7A97;&#x53E3;&#x6587;&#x672C;"
+msgstr "特色信息窗口文本"
 
 msgid "SpecialWindowTitleText"
-msgstr "&#x7279;&#x6B8A;&#x4FE1;&#x606F;&#x7A97;&#x53E3;&#x6807;&#x9898;"
+msgstr "特殊信息窗口标题"
 
 msgid "StatisticsText"
-msgstr "&#x5BA2;&#x6237;&#x7AEF;&#x7EDF;&#x8BA1;"
+msgstr "客户端统计"
 
 msgid "styles1"
-msgstr "&#x9ED8;&#x8BA4;&#x6781;&#x7B80;"
+msgstr "默认极简"
 
 msgid "styles2"
-msgstr "&#x6D45;&#x7070;&#x8272;"
+msgstr "浅灰色"
 
 msgid "styles3"
-msgstr "&#x84DD;&#x8272;&#x591C;&#x665A;"
+msgstr "蓝色夜晚"
 
 msgid "styles4"
-msgstr "&#x6DF1;&#x7070;&#x8272;"
+msgstr "深灰色"
 
 msgid "styles5"
-msgstr "&#x70AB;&#x5149;&#x6548;&#x679C;"
+msgstr "炫光效果"
 
 msgid "StyleSwitcherChoiceText"
-msgstr "&#x9009;&#x62E9;"
+msgstr "选择"
 
 msgid "StyleSwitcherLanguagesText"
-msgstr "&#x8BED;&#x8A00;"
+msgstr "语言"
 
 msgid "StyleSwitcherStylesText"
-msgstr "&#x98CE;&#x683C;"
+msgstr "风格"
 
 msgid "Submit"
-msgstr "&#x63D0;&#x4EA4;"
+msgstr "提交"
 
 msgid "SummaryText"
-msgstr "&#x6982;&#x8981;"
+msgstr "概要"
 
 msgid "Sun"
-msgstr "&#x5468;&#x65E5;"
+msgstr "周日"
 
 msgid "Sunday"
-msgstr "&#x661F;&#x671F;&#x65E5;"
+msgstr "星期日"
 
 msgid "SystemEstateNameText"
-msgstr "&#x7CFB;&#x7EDF;&#x5730;&#x4EA7;"
+msgstr "系统地产"
 
 msgid "TaxFreeText"
-msgstr "&#x514D;&#x7A0E;"
+msgstr "免税"
 
 msgid "TermsOfServiceAccept"
-msgstr "&#x4F60;&#x63A5;&#x53D7;&#x4E0A;&#x8FF0;&#x7684;&#x670D;&#x52A1;&#x6761;&#x6B3E;&#x5417;&#xFF1F;"
+msgstr "你接受上述的服务条款吗？"
 
 msgid "TermsOfServiceText"
-msgstr "&#x670D;&#x52A1;&#x6761;&#x6B3E;"
+msgstr "服务条款"
 
 msgid "Thu"
-msgstr "&#x5468;&#x56DB;"
+msgstr "周四"
 
 msgid "Thursday"
-msgstr "&#x661F;&#x671F;&#x56DB;"
+msgstr "星期四"
 
 msgid "TimeText"
-msgstr "&#x65F6;&#x95F4;"
+msgstr "时间"
 
 msgid "TimeUntilUnbannedText"
-msgstr "&#x7528;&#x6237;&#x89E3;&#x7981;&#x622A;&#x6B62;&#x65F6;&#x95F4;"
+msgstr "用户解禁截止时间"
 
 msgid "TooltipsMenuAbuse"
-msgstr "&#x7528;&#x6237;&#x6EE5;&#x7528;&#x62A5;&#x544A;"
+msgstr "用户滥用报告"
 
 msgid "TooltipsMenuChangeUserInformation"
-msgstr "&#x4FEE;&#x6539;&#x7528;&#x6237;&#x4FE1;&#x606F;"
+msgstr "修改用户信息"
 
 msgid "TooltipsMenuChat"
-msgstr "&#x804A;&#x5929;"
+msgstr "聊天"
 
 msgid "TooltipsMenuClassifieds"
-msgstr "&#x516C;&#x544A;&#x4FE1;&#x606F;"
+msgstr "公告信息"
 
 msgid "TooltipsMenuEstateManager"
-msgstr "&#x9886;&#x571F;&#x7BA1;&#x7406;&#x5458;"
+msgstr "领土管理员"
 
 msgid "TooltipsMenuEvents"
-msgstr "&#x4E8B;&#x4EF6;&#x4FE1;&#x606F;"
+msgstr "事件信息"
 
 msgid "TooltipsMenuFactoryReset"
-msgstr "&#x590D;&#x4F4D;&#x5230;&#x521D;&#x59CB;&#x8BBE;&#x7F6E;"
+msgstr "复位到初始设置"
 
 msgid "TooltipsMenuForgotPass"
-msgstr "&#x5FD8;&#x8BB0;&#x5BC6;&#x7801;"
+msgstr "忘记密码"
 
 msgid "TooltipsMenuGridSettings"
-msgstr "&#x4E16;&#x754C;&#x8BBE;&#x7F6E;"
+msgstr "世界设置"
 
 msgid "TooltipsMenuGroups"
-msgstr "&#x7528;&#x6237;&#x7EC4;"
+msgstr "用户组"
 
 msgid "TooltipsMenuHelp"
-msgstr "&#x5E2E;&#x52A9;"
+msgstr "帮助"
 
 msgid "TooltipsMenuHome"
-msgstr "&#x9996;&#x9875;"
+msgstr "首页"
 
 msgid "TooltipsMenuLogin"
-msgstr "&#x767B;&#x5F55;"
+msgstr "登录"
 
 msgid "TooltipsMenuLogout"
-msgstr "&#x9000;&#x51FA;"
+msgstr "退出"
 
 msgid "TooltipsMenuManager"
-msgstr "&#x7BA1;&#x7406;&#x5458;&#x7BA1;&#x7406;"
+msgstr "管理员管理"
 
 msgid "TooltipsMenuManagerSimConsole"
-msgstr "&#x5728;&#x7EBF;&#x4EFF;&#x771F;&#x5668;&#x7EC8;&#x7AEF;"
+msgstr "在线仿真器终端"
 
 msgid "TooltipsMenuNews"
-msgstr "&#x65B0;&#x95FB;"
+msgstr "新闻"
 
 msgid "TooltipsMenuNewsManager"
-msgstr "&#x65B0;&#x95FB;&#x7BA1;&#x7406;&#x5458;"
+msgstr "新闻管理员"
 
 msgid "TooltipsMenuOnlineUsers"
-msgstr "&#x5728;&#x7EBF;&#x7528;&#x6237;"
+msgstr "在线用户"
 
 msgid "TooltipsMenuOwner"
-msgstr "&#x9886;&#x571F;&#x62E5;&#x6709;&#x8005;"
+msgstr "领土拥有者"
 
 msgid "TooltipsMenuPageManager"
-msgstr "&#x9875;&#x9762;&#x7BA1;&#x7406;&#x5458;"
+msgstr "页面管理员"
 
 msgid "TooltipsMenuParcel"
-msgstr "&#x5C9B;&#x5C7F;&#x5730;&#x5757;"
+msgstr "岛屿地块"
 
 msgid "TooltipsMenuPicks"
-msgstr "&#x7528;&#x6237;&#x9009;&#x62E9;"
+msgstr "用户选择"
 
 msgid "TooltipsMenuProfile"
-msgstr "&#x7528;&#x6237;&#x8D44;&#x6599;"
+msgstr "用户资料"
 
 msgid "TooltipsMenuPurchases"
-msgstr "&#x8D2D;&#x4E70;&#x4FE1;&#x606F;"
+msgstr "购买信息"
 
 msgid "TooltipsMenuRegion"
-msgstr "&#x5C9B;&#x5C7F;&#x8BE6;&#x60C5;"
+msgstr "岛屿详情"
 
 msgid "TooltipsMenuRegionManager"
-msgstr "&#x5C9B;&#x5C7F;&#x521B;&#x5EFA;/&#x7F16;&#x8F91;"
+msgstr "岛屿创建/编辑"
 
 msgid "TooltipsMenuRegions"
-msgstr "&#x7528;&#x6237;&#x5C9B;&#x5C7F;"
+msgstr "用户岛屿"
 
 msgid "TooltipsMenuRegionSearch"
-msgstr "&#x5C9B;&#x5C7F;&#x641C;&#x7D22;"
+msgstr "岛屿搜索"
 
 msgid "TooltipsMenuRegister"
-msgstr "&#x6CE8;&#x518C;"
+msgstr "注册"
 
 msgid "TooltipsMenuSettings"
-msgstr "Web&#x754C;&#x9762;&#x8BBE;&#x8BA1;"
+msgstr "Web界面设计"
 
 msgid "TooltipsMenuSettingsManager"
-msgstr "&#x8BBE;&#x7F6E;&#x7BA1;&#x7406;"
+msgstr "设置管理"
 
 msgid "TooltipsMenuStatistics"
-msgstr "&#x5BA2;&#x6237;&#x7AEF;&#x7EDF;&#x8BA1;"
+msgstr "客户端统计"
 
 msgid "TooltipsMenuTransactions"
-msgstr "&#x4EA4;&#x6613;&#x4FE1;&#x606F;"
+msgstr "交易信息"
 
 msgid "TooltipsMenuUser"
-msgstr "&#x7528;&#x6237;"
+msgstr "用户"
 
 msgid "TooltipsMenuUserManager"
-msgstr "&#x7528;&#x6237;&#x7BA1;&#x7406;"
+msgstr "用户管理"
 
 msgid "TooltipsMenuUserSearch"
-msgstr "&#x7528;&#x6237;&#x641C;&#x7D22;"
+msgstr "用户搜索"
 
 msgid "TooltipsMenuViewerHelp"
-msgstr "&#x5BA2;&#x6237;&#x7AEF;&#x5E2E;&#x52A9;"
+msgstr "客户端帮助"
 
 msgid "TooltipsMenuWelcomeScreenManager"
-msgstr "&#x6B22;&#x8FCE;&#x6765;&#x5230;&#x754C;&#x9762;&#x7BA1;&#x7406;"
+msgstr "欢迎来到界面管理"
 
 msgid "TooltipsMenuWorld"
-msgstr "&#x4E16;&#x754C;"
+msgstr "世界"
 
 msgid "TooltipsMenuWorldMap"
-msgstr "&#x4E16;&#x754C;&#x5730;&#x56FE;"
+msgstr "世界地图"
 
 msgid "TooltipsWelcomeScreen"
-msgstr "&#x6B22;&#x8FCE;&#x754C;&#x9762;"
+msgstr "欢迎界面"
 
 msgid "TooltipsWorldMap"
-msgstr "&#x4E16;&#x754C;&#x5730;&#x56FE;"
+msgstr "世界地图"
 
 msgid "TopLevel"
-msgstr "&#x9876;&#x5C42;"
+msgstr "顶层"
 
 msgid "TotalRegionCount"
-msgstr "&#x5C9B;&#x5C7F;&#x603B;&#x6570;"
+msgstr "岛屿总数"
 
 msgid "TotalUserCount"
-msgstr "&#x603B;&#x7528;&#x6237;"
+msgstr "总用户"
 
 msgid "TransactionAmountText"
-msgstr "&#x603B;&#x6570;"
+msgstr "总数"
 
 msgid "TransactionBalanceText"
-msgstr "&#x7ED3;&#x4F59;"
+msgstr "结余"
 
 msgid "TransactionDateText"
-msgstr "&#x65E5;&#x671F;"
+msgstr "日期"
 
 msgid "TransactionDetailText"
-msgstr "&#x63CF;&#x8FF0;"
+msgstr "描述"
 
 msgid "TransactionFromAgentText"
-msgstr "&#x6765;&#x81EA;&#x7528;&#x6237;"
+msgstr "来自用户"
 
 msgid "TransactionsText"
-msgstr "&#x4EA4;&#x6613;"
+msgstr "交易"
 
 msgid "TransactionToAgentText"
-msgstr "&#x7ED9;&#x7528;&#x6237;"
+msgstr "给用户"
 
 msgid "Tue"
-msgstr "&#x5468;&#x4E8C;"
+msgstr "周二"
 
 msgid "Tuesday"
-msgstr "&#x661F;&#x671F;&#x4E8C;"
+msgstr "星期二"
 
 msgid "TypeUserNameToConfirm"
-msgstr "&#x8BF7;&#x952E;&#x5165;&#x6B64;&#x5E10;&#x6237;&#x7684;&#x7528;&#x6237;&#x540D;&#xFF0C;&#x4EE5;&#x786E;&#x8BA4;&#x60A8;&#x8981;&#x5220;&#x9664;&#x6B64;&#x5E10;&#x6237;&#x3002;"
+msgstr "请键入此帐户的用户名，以确认您要删除此帐户。"
 
 msgid "UnbanText"
-msgstr "&#x89E3;&#x7981;"
+msgstr "解禁"
 
 msgid "UniqueVisitors"
-msgstr "30&#x5929;&#x72EC;&#x7ACB;&#x8BBF;&#x5BA2;&#x91CF;"
+msgstr "30天独立访客量"
 
 msgid "UpdateRequired"
-msgstr "&#x9700;&#x8981;&#x66F4;&#x65B0;"
+msgstr "需要更新"
 
 msgid "UserAddressText"
-msgstr "&#x90AE;&#x653F;&#x5730;&#x5740;"
+msgstr "邮政地址"
 
 msgid "UserCityText"
-msgstr "&#x6240;&#x5728;&#x57CE;&#x5E02;"
+msgstr "所在城市"
 
 msgid "UserCountryText"
-msgstr "&#x56FD;&#x5BB6;"
+msgstr "国家"
 
 msgid "UserDOBText"
-msgstr "&#x751F;&#x65E5; (&#x6708; &#x65E5; &#x5E74;)"
+msgstr "生日 (月 日 年)"
 
 msgid "UserEmailText"
-msgstr "&#x90AE;&#x7BB1;"
+msgstr "邮箱"
 
 msgid "UserGroupNameText"
-msgstr "&#x7528;&#x6237;&#x7EC4;"
+msgstr "用户组"
 
 msgid "UserHomeRegionText"
-msgstr "&#x5BB6;"
+msgstr "家"
 
 msgid "UserName"
-msgstr "&#x7528;&#x6237;&#x540D;"
+msgstr "用户名"
 
 msgid "UserNameText"
-msgstr "&#x7528;&#x6237;&#x540D;"
+msgstr "用户名"
 
 msgid "UserProfileFor"
-msgstr "&#x7528;&#x6237;&#x4E2A;&#x4EBA;&#x8D44;&#x6599;"
+msgstr "用户个人资料"
 
 msgid "UserSearchText"
-msgstr "&#x7528;&#x6237;&#x641C;&#x7D22;"
+msgstr "用户搜索"
 
 msgid "UsersGroupsText"
-msgstr "&#x5DF2;&#x52A0;&#x5165;&#x7EC4;"
+msgstr "已加入组"
 
 msgid "UsersPicksText"
-msgstr "&#x7CBE;&#x9009;"
+msgstr "精选"
 
 msgid "UserTypeText"
-msgstr "&#x7528;&#x6237;&#x7C7B;&#x578B;"
+msgstr "用户类型"
 
 msgid "UserZipText"
-msgstr "&#x4F60;&#x7684;&#x90AE;&#x653F;&#x7F16;&#x7801;"
+msgstr "你的邮政编码"
 
 msgid "UUIDText"
 msgstr "UUID"
 
 msgid "ViewersText"
-msgstr "&#x5BA2;&#x6237;&#x7AEF;&#x4F7F;&#x7528;"
+msgstr "客户端使用"
 
 msgid "Voice"
-msgstr "&#x58F0;&#x97F3;"
+msgstr "声音"
 
 msgid "WebRegistrationText"
-msgstr "&#x5141;&#x8BB8;&#x7F51;&#x9875;&#x6CE8;&#x518C;"
+msgstr "允许网页注册"
 
 msgid "WebsiteDownInfoText"
-msgstr "&#x5F53;&#x524D;&#x7AD9;&#x70B9;&#x5DF2;&#x7ECF;&#x505C;&#x6B62;&#x670D;&#x52A1;&#xFF0C;&#x8BF7;&#x7A0D;&#x540E;&#x5C1D;&#x8BD5;&#x3002;"
+msgstr "当前站点已经停止服务，请稍后尝试。"
 
 msgid "WebsiteDownText"
-msgstr "&#x7AD9;&#x70B9;&#x79BB;&#x7EBF;&#x63D0;&#x793A;"
+msgstr "站点离线提示"
 
 msgid "Wed"
-msgstr "&#x5468;&#x4E09;"
+msgstr "周三"
 
 msgid "Wednesday"
-msgstr "&#x661F;&#x671F;&#x4E09;"
+msgstr "星期三"
 
 msgid "WelcomeMessageText"
-msgstr "&#x767B;&#x5F55;&#x6B22;&#x8FCE;&#x6D88;&#x606F;"
+msgstr "登录欢迎消息"
 
 msgid "WelcomeScreen"
-msgstr "&#x6B22;&#x8FCE;&#x754C;&#x9762;"
+msgstr "欢迎界面"
 
 msgid "WelcomeScreenManagerFor"
-msgstr "&#x6B22;&#x8FCE;&#x6765;&#x5230;&#x754C;&#x9762;&#x7BA1;&#x7406;"
+msgstr "欢迎来到界面管理"
 
 msgid "WelcomeToText"
-msgstr "&#x6B22;&#x8FCE;&#x6765;&#x5230;"
+msgstr "欢迎来到"
 
 msgid "WorldMap"
-msgstr "&#x4E16;&#x754C;&#x5730;&#x56FE;"
+msgstr "世界地图"
 
 msgid "WorldMapText"
-msgstr "&#x5168;&#x5C4F;"
+msgstr "全屏"
 
 msgid "Yes"
-msgstr "&#x662F;"
+msgstr "是"
 
+#add by toweiyg
+msgid "HomeUserLogin"
+msgstr "用户登录"
+
+msgid "LoginSuccess"
+msgstr "登录成功"
+
+msgid "LoingFailed"
+msgstr "用户名或密码错误"
+
+msgid "UpdateWebUIsuccess"
+msgstr "成功更新WEB界面设置。"
+
+msgid "NoNewsToReport"
+msgstr "没有新闻"
+
+msgid "InvalidNewsItem"
+msgstr "无效的新闻"
+
+msgid "DTsProcessing"
+msgstr "处理中..."
+
+msgid "DTsLengthMenu"
+msgstr "显示 _MENU_ 项结果"
+
+msgid "DTsZeroRecords"
+msgstr "没有匹配结果"
+
+msgid "DTsInfo"
+msgstr "显示第 _START_ 至 _END_ 项结果，共 _TOTAL_ 项"
+
+msgid "DTsInfoEmpty"
+msgstr "显示第 0 至 0 项结果，共 0 项"
+
+msgid "DTsInfoFiltered"
+msgstr "(由 _MAX_ 项结果过滤)"
+
+msgid "DTsInfoPostFix"
+msgstr ""
+
+msgid "DTsSearch"
+msgstr "搜索:"
+
+msgid "DTsUrl"
+msgstr ""
+
+msgid "DTsEmptyTable"
+msgstr "表中数据为空"
+
+msgid "DTsLoadingRecords"
+msgstr "载入中..."
+
+msgid "DTsInfoThousands"
+msgstr ","
+
+msgid "DToPaginatesFirst"
+msgstr "首页"
+
+msgid "DToPaginatesPrevious"
+msgstr "上页"
+
+msgid "DToPaginatesNext"
+msgstr "下页"
+
+msgid "DToPaginatesLast"
+msgstr "末页"
+
+msgid "DToAriasSortAscending"
+msgstr ": 以升序排列此列"
+
+msgid "DToAriasSortDescending"
+msgstr ": 以降序排列此列"
+
+msgid "AvatarSelection"
+msgstr "初始形象"
+
+msgid "ForPasswordRecoveryOnly"
+msgstr "仅用于密码找回"
+
+msgid "EnterYourName"
+msgstr "设置登录化身用户名，比如：“king there”。格式“FirstName+空格+LastName”，注意只能使用字母和数字，不能使用中文和其他特殊字符。"
+
+msgid "YourLoginPassword"
+msgstr "设置登录密码。"
+
+msgid "SuccessfullyCreatedAccount"
+msgstr "注册成功，请关闭本窗口，您的用户名是（注意含有空格）："
+
+msgid "YouDidNotAcceptTOS"
+msgstr "请勾选接受用户协议，才能完成注册。"
+
+msgid "NoTOS"
+msgstr "用户协议待设置。"
+
+#end add by toweiyg@bnu.edu.cn

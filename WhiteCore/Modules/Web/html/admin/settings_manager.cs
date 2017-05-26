@@ -81,7 +81,7 @@ namespace WhiteCore.Modules.Web
 
                 webInterface.SaveWebUISettings (settings);
 
-                response = "Successfully updated WebUI settings.";
+                response = translator.GetTranslatedString("UpdateWebUIsuccess");// "Successfully updated WebUI settings.";
 
                 return null;
             }

@@ -136,6 +136,27 @@ namespace WhiteCore.Modules.Web
             vars.Add ("EditText", translator.GetTranslatedString ("EditText"));
             vars.Add ("EditUserAccountText", translator.GetTranslatedString ("EditUserAccountText"));
 
+            //for DataTable toweiyg@bnu.edu.cn
+            vars.Add("DTsProcessing", translator.GetTranslatedString("DTsProcessing"));
+            vars.Add("DTsLengthMenu", translator.GetTranslatedString("DTsLengthMenu"));
+            vars.Add("DTsZeroRecords", translator.GetTranslatedString("DTsZeroRecords"));
+            vars.Add("DTsInfo", translator.GetTranslatedString("DTsInfo"));
+            vars.Add("DTsInfoEmpty", translator.GetTranslatedString("DTsInfoEmpty"));
+            vars.Add("DTsInfoFiltered", translator.GetTranslatedString("DTsInfoFiltered"));
+            vars.Add("DTsInfoPostFix", translator.GetTranslatedString("DTsInfoPostFix"));
+            vars.Add("DTsSearch", translator.GetTranslatedString("DTsSearch"));
+            vars.Add("DTsUrl", translator.GetTranslatedString("DTsUrl"));
+            vars.Add("DTsEmptyTable", translator.GetTranslatedString("DTsEmptyTable"));
+            vars.Add("DTsLoadingRecords", translator.GetTranslatedString("DTsLoadingRecords"));
+            vars.Add("DTsInfoThousands", translator.GetTranslatedString("DTsInfoThousands"));
+            vars.Add("DToPaginatesFirst", translator.GetTranslatedString("DToPaginatesFirst"));
+            vars.Add("DToPaginatesPrevious", translator.GetTranslatedString("DToPaginatesPrevious"));
+            vars.Add("DToPaginatesNext", translator.GetTranslatedString("DToPaginatesNext"));
+            vars.Add("DToPaginatesLast", translator.GetTranslatedString("DToPaginatesLast"));
+            vars.Add("DToAriasSortAscending", translator.GetTranslatedString("DToAriasSortAscending"));
+            vars.Add("DToAriasSortDescending", translator.GetTranslatedString("DToAriasSortDescending"));
+
+
             return vars;
         }
 
